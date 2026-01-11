@@ -1,5 +1,68 @@
 #EXTM3U
-#EXTINF:0, M1
+
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м1%20Sat%20UA.png" ,м1 
+http://213.226.69.130/iptv/3K5Z3VE8M7N89U/6334/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м1%20Sat%20UA.png" ,м1 
 http://gr.seetv.cc/play/9980/655239080E5FD1B/mpegts
-#EXTINF:0, M2
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м1%20Sat%20UA.png" ,м1 
+http://gr.seetv.cc/play/9980/655239080E5FD1B/mpegts
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м1%20Sat%20UA.png" ,м1 
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782736&extension=ts
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м1%20Sat%20UA.png" ,м1 
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782735&extension=ts
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м1%20Sat%20UA.png" ,м1 
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782734&extension=ts
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м1%20Sat%20UA.png" ,м1 
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:1D&stream=384881&extension=ts
+
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м2%20UA.jpg" ,м2 
+http://213.226.69.130/iptv/3K5Z3VE8M7N89U/6335/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м2%20UA.jpg" ,м2 
 http://gr.seetv.cc/play/9979/655239080E5FD1B/mpegts
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м2%20UA.jpg" ,м2 
+http://gr.seetv.cc/play/9979/655239080E5FD1B/mpegts
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м2%20UA.jpg" ,м2 
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782739&extension=ts
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м2%20UA.jpg" ,м2 
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782738&extension=ts
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м2%20UA.jpg" ,м2 
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782737&extension=ts
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м2%20UA.jpg" ,м2 
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:1D&stream=384880&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/UA_Music.png" ,UA Music HD
+http://lb.wisp.cat/lb0/UA_Music_HD/video.m3u8?token=7NDbKyE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/UA_Music.png" ,UA Music HD
+http://gr.seetv.cc/play/351/655239080E5FD1B/mpegts
+
+
+#EXTINF:-1 tvg-logo="https://tv.dkm.ua/sweet_tv_list_files/412-nashe-music-hd.png" , НашеMusic HD
+http://lb.wisp.cat/lb0/NASHE_HD/video.m3u8?token=7NDbKyE
+#EXTINF:-1 tvg-logo="https://tv.dkm.ua/sweet_tv_list_files/412-nashe-music-hd.png" , НашеMusic HD
+http://gr.seetv.cc/play/7184/655239080E5FD1B/mpegts
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Megogo_Music.png" , Megogo Music  HD
+http://lb.wisp.cat/lb0/MegogoLiveHD/video.m3u8?token=7NDbKyE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
