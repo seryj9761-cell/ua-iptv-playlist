@@ -36,7 +36,7 @@ http://line.protv.cc:80/play/live.php?mac=00:1A:79:7E:10:EC&stream=127210&extens
 http://lb.wisp.cat/lb0/UA_Music_HD/video.m3u8?token=7NDbKyE
 
 
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nashe-music-hd.png" , НашеMusic HD
+#EXTINF:-1 tvg-id="nashe-music-hd" tvg-logo="https://epg.iptvx.one/picons/nashe-music-hd.png" , НашеMusic HD
 http://lb.wisp.cat/lb0/NASHE_HD/video.m3u8?token=7NDbKyE
 
 
