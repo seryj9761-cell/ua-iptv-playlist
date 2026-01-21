@@ -1,44 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м1%20Sat%20UA.png" ,м1 
+#EXTINF:-1 tvg-logo="hhttps://gitlab.com/it999/picons/-/raw/master/dark_165x165/M1%20HD.png" ,м1 
 http://213.226.69.130/iptv/3K5Z3VE8M7N89U/6334/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м1%20Sat%20UA.png" ,м1 
+#EXTINF:-1 tvg-logo="https://gitlab.com/it999/picons/-/raw/master/dark_165x165/M1%20HD.png" ,м1 
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782736&extension=ts
-#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м1%20Sat%20UA.png" ,м1 
+#EXTINF:-1 tvg-logo="https://gitlab.com/it999/picons/-/raw/master/dark_165x165/M1%20HD.png" ,м1 
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:1D&stream=384881&extension=ts
-#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м1%20Sat%20UA.png" ,м1 
+#EXTINF:-1 tvg-logo="https://gitlab.com/it999/picons/-/raw/master/dark_165x165/M1%20HD.png" ,м1 
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:7E:10:EC&stream=127209&extension=ts
-#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м1%20Sat%20UA.png" ,м1 
+#EXTINF:-1 tvg-logo="https://gitlab.com/it999/picons/-/raw/master/dark_165x165/M1%20HD.png" ,м1 
 http://bpl.online24.pm/play/9980/75BA4FC1CA5013E/mpegts
 
 
 
-#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м2%20UA.jpg" ,м2 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/komln6hs7wmk0gy/M2TVUA200.png" ,м2 
 http://213.226.69.130/iptv/3K5Z3VE8M7N89U/6335/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м2%20UA.jpg" ,м2 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/komln6hs7wmk0gy/M2TVUA200.png" ,м2 
 http://bpl.online24.pm/play/9979/75BA4FC1CA5013E/mpegts
-#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м2%20UA.jpg" ,м2 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/komln6hs7wmk0gy/M2TVUA200.png" ,м2 
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782739&extension=ts
-#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м2%20UA.jpg" ,м2 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/komln6hs7wmk0gy/M2TVUA200.png" ,м2 
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782738&extension=ts
-#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м2%20UA.jpg" ,м2 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/komln6hs7wmk0gy/M2TVUA200.png" ,м2 
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782737&extension=ts
-#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м2%20UA.jpg" ,м2 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/komln6hs7wmk0gy/M2TVUA200.png" ,м2 
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:1D&stream=384880&extension=ts
-#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Ukraine/м2%20UA.jpg" ,м2 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/komln6hs7wmk0gy/M2TVUA200.png" ,м2 
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:7E:10:EC&stream=127210&extension=ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/UA_Music.png" ,UA Music HD
+#EXTINF:-1 tvg-logo="https://4pda.to/s/qirtcHAUz1z0kbtx9z2fw2glz2Ez04lAR3Q3jqJO.png" ,UA Music HD
 http://lb.wisp.cat/lb0/UA_Music_HD/video.m3u8?token=7NDbKyE
 
 
-#EXTINF:-1 tvg-logo="https://tv.dkm.ua/sweet_tv_list_files/412-nashe-music-hd.png" , НашеMusic HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nashe-music-hd.png" , НашеMusic HD
 http://lb.wisp.cat/lb0/NASHE_HD/video.m3u8?token=7NDbKyE
-#EXTINF:-1 tvg-logo="https://tv.dkm.ua/sweet_tv_list_files/412-nashe-music-hd.png" , НашеMusic HD
-http://bpl.online24.pm/play/7184/75BA4FC1CA5013E/mpegts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Megogo_Music.png" , Megogo Music  HD
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/assets/files/2025-08-06/1754499539-322691-megogomusic200.png" , Megogo Music  HD
 http://lb.wisp.cat/lb0/MegogoLiveHD/video.m3u8?token=7NDbKyE
 
 
