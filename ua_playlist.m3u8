@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz"
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/it999/picons/-/raw/master/dark_165x165/M1%20HD.png" ,м1 
+#EXTINF:-1 tvg-id="m1-ua" tvg-logo="https://epg.iptvx.one/picons/m1-ua.png" ,м1 
 http://213.226.69.130/iptv/3K5Z3VE8M7N89U/6334/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/it999/picons/-/raw/master/dark_165x165/M1%20HD.png" ,м1 
+#EXTINF:-1 tvg-id="m1-ua" tvg-logo="https://epg.iptvx.one/picons/m1-ua.png" ,м1 
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782736&extension=ts
-#EXTINF:-1 tvg-logo="https://gitlab.com/it999/picons/-/raw/master/dark_165x165/M1%20HD.png" ,м1 
+#EXTINF:-1 tvg-id="m1-ua" tvg-logo="https://epg.iptvx.one/picons/m1-ua.png" ,м1 
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:1D&stream=384881&extension=ts
-#EXTINF:-1 tvg-logo="https://gitlab.com/it999/picons/-/raw/master/dark_165x165/M1%20HD.png" ,м1 
+#EXTINF:-1 tvg-id="m1-ua" tvg-logo="https://epg.iptvx.one/picons/m1-ua.png" ,м1  
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:7E:10:EC&stream=127209&extension=ts
-#EXTINF:-1 tvg-logo="https://gitlab.com/it999/picons/-/raw/master/dark_165x165/M1%20HD.png" ,м1 
+#EXTINF:-1 tvg-id="m1-ua" tvg-logo="https://epg.iptvx.one/picons/m1-ua.png" ,м1 
 http://bpl.online24.pm/play/9980/75BA4FC1CA5013E/mpegts
 
 
