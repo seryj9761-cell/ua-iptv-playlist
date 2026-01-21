@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH ,http://epg.one/epg2.xml.gz"
 
 #EXTINF:-1 tvg-id="m1-ua" tvg-logo="https://epg.iptvx.one/picons/m1-ua.png" ,м1 
 http://213.226.69.130/iptv/3K5Z3VE8M7N89U/6334/index.m3u8
